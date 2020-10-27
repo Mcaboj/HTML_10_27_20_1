@@ -1,0 +1,33 @@
+#first {
+  color: rgb(0, 255, 0);
+  background-color: rgb(100, 0, 0);
+}
+
+#second {
+  color: rgb(0, 200, 150);
+  background-color: rgba(100, 100, 100, 0.8);
+}
+
+#third {
+  color: rosybrown;
+  background-color: slategray;
+}
+
+h2 {
+  font-size: 30px;
+  width: 200px;
+  height: 300px;
+  background: blue;
+}
+
+.inner {
+  width: 50%;
+  height: 50%;
+  background: red;
+}
+
+.outer {
+  width: 500px;
+  height: 500px;
+  background: blue;
+}
